@@ -1,3 +1,6 @@
+## Container folder for output
+out
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
