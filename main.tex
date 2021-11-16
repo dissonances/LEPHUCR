@@ -10,7 +10,7 @@
     headings=big,%
     headsepline=on,%
     paper=letter,%
-    %paper=7in:8.5in,%
+    %paper=7in:8.5in,% pueds especificar un tamaño propio
     DIV=calc,%
     BCOR=5mm,%
     parskip=full+,%
@@ -25,19 +25,9 @@
 %\setmainfont{Spectral-Regular}
 %\setsansfont{Spectral-Medium}
 %\setmonofont{inconsolata}
-%\usepackage{lmodern}
-%%%%%%% Conjunto DejaVu
-%\usepackage{DejaVuSerifCondensed}
-%\usepackage{DejaVuSansCondensed}
-%\usepackage{DejaVuSansMono}
-%%%%%%% Alegreya y Pandora
 \usepackage{Alegreya}
 \usepackage{AlegreyaSans}
 \usepackage{inconsolata}
-%%%%%%% Source Pro
-% \usepackage{sourceserifpro}
-% \usepackage{sourcesanspro}
-% \usepackage{sourcecodepro}
 \usepackage{textcomp}
 \usepackage{enumitem}
 \usepackage{hologo}
@@ -56,15 +46,15 @@ doi=false,%
 \addbibresource{bibliography/tesis-revision-ortografia.bib}
 \usepackage{graphicx}
 \graphicspath{{images/}}
-\usepackage{url}
+\usepackage{xurl}
 \def\UrlBreaks{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\%\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9\do=\do/\do.\do:}
 \usepackage{xcolor}
 \usepackage{booktabs}
 \usepackage{epigraph}
 \setlength{\epigraphwidth }{0.50\linewidth}
-\usepackage{layout}
-\usepackage[draft]{typogrid}
-\typogridsetup{columns=1}
+%\usepackage{layout} % page config
+%\usepackage[draft]{typogrid} % show page borders
+%\typogridsetup{columns=1} % show 1 column
 
 \usepackage{hyperref}
 \hypersetup{
@@ -136,15 +126,22 @@ Primera edición, 2020. \\
 \lowertitleback{\footnotesize\raggedright
 Diseño, edición y composición: \emph{Listopad} \\
 
+\bigskip
+
 La composición tipográfica se realizó con Pandoc y \hologo{LuaLaTeX}, mediante el uso de la colección \hologo{KOMAScript} sobre \hologo{LaTeXe}.\\
+
+\bigskip
 
 Los tipos usados en la presente edición son Alegreya y \textsf{Alegreya Sans}, diseñados por Juan Pablo del Peral, para \href{https://www.huertatipografica.com/es}{Huerta Tipográfica}, que se encuentran disponibles en \url{https://github.com/huertatipografica/Alegreya} y \url{https://github.com/huertatipografica/Alegreya-Sans}; complementadas con \texttt{Inconsolata} de Raph Levien para el texto monoespaciado, que se encuentra disponible en \url{https://levien.com/type/myfonts/inconsolata.html}.\\
 
+\bigskip
+
 Edición: Araden\v{a}torix\\
 
-Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
-}
+\bigskip
 
+Impreso y hecho en México $\bullet$ \emph{Printed in Mexico.}
+}
 
 \begin{document}
 \frontmatter
@@ -176,15 +173,15 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 \include{chapters/01-intro}
 
 \mainmatter
-%%\include{chapters/02-chapter1}
-%%\include{chapters/03-chapter2}
-%\include{chapters/04-chapter3}
-%\include{chapters/05-chapter4}
+\include{chapters/02-chapter1}
+\include{chapters/03-chapter2}
+\include{chapters/04-chapter3}
+\include{chapters/05-chapter4}
 
 %\nocite{*}
-\printbibheading[title={Referencias por tipo}]
+\printbibheading[title={Bibliografía catalogada}]
 
-\printbibliography[type=article,title={Artículos}]
+\printbibliography[type=article, title={Artículos}]
 
 \printbibliography[type=book, title={Libros}]
 
