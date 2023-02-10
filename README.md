@@ -243,9 +243,20 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project, please give it a ⭐️!
+Donate by:
+- [PayPal](https://paypal.me/angel-mora)
+- [Gumroad](https://gumroad.com)
+- [Patreon](https://patreon.com)
+- [Ko-fi](https://ko-fi.com)
+- [Liberapay](https://liberapay.com)
+- [Buy me a coffee](https://buymeacoffee.com)
+- [GitHub Sponsors]()
+- [Open Collective]()
+- [Bitcoin](bitcoin:bc1q8xq)
+- [Ethereum](ethereum:0x0)
+- [Bank Transfer (MX)]()
+- [Bank Transfer (US)]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -253,9 +264,11 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I would like to thank
 
-I would like to thank...
+- @aradnix
+- @ketsapiwi
+- @angelacuahutle
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
