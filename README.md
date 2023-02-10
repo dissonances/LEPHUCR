@@ -60,29 +60,29 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Lee esto para hacer un cambio real (LEPHUCR)] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Spanish written book about technocriticism from a libidinal hacker.
 
-**[your_project__name]** is a...
+**[LEPHUCR and other texts]** is a book splitted in multiple fascicles and we try to use emojis and cool stuff whenever we find a good opportunity.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> LaTeX based book with some scripts to generate a fanzine from the actual markdown content.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">Next.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -97,11 +97,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> This book is publishable through Gollum and we aim to provide an User Interface to edit markdown texts.GitHub Action to auto-publish once a Pull Request is approved. 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Public GitHub Action]**
+- **[Front-end to edit the text, add images and bibliography]**
+- **[Bibliography]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+> You can buy the latest version [here](https://gumroad.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +121,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+### Docker Installation
 
 In order to run this project you need:
 
@@ -134,6 +132,9 @@ Example command:
  gem install rails
 ```
  -->
+- docker and docker-compose
+  - gollum
+  - latex suite
 
 ### Setup
 
@@ -161,6 +162,7 @@ Example command:
 ```
 --->
 
+
 ### Usage
 
 To run the project, execute the following command:
@@ -177,13 +179,9 @@ Example command:
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
 
 ### Deployment
 
