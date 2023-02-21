@@ -68,7 +68,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Lee esto para hacer un cambio real (LEPHUCR)] <a name="about-project"></a>
+# 📖 [[Lee esto para hacer un cambio real (LEPHUCR)]] <a name="about-project"></a>
 
 > Spanish written book about technocriticism from a libidinal hacker.
 
