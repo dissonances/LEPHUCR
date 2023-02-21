@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-# TODOs
-
-- [ ] Add a note on the fragmentary writing. Little ideas intertwined to create arguments
-- [ ] Set one individual main.tex
-# Scripts
-- Ruby script to move text back to Markdown but keep Latex section separated.
-- Script to generate text from template format in Latex
-
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -128,6 +120,18 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
+# Using Docker container in a LaTeX project
+
+## TODO: Paste to Obsidian from Telegraph
+
+### Online (Overleaf)
+Follow this tutorial to get started with Overleaf: https://www.overleaf.com/learn/how-to/Using_Git_and_GitHub
+
+### Local (Docker)
+The current Docker Setup is done inspired by this article: https://towardsdatascience.com/three-ways-to-create-dockernized-latex-environment-2534163ee0c4
+
+### GitHub Actions
+
 ### Docker Installation
 
 In order to run this project you need:
@@ -210,17 +214,14 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Angel Mora**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@angel-mora](https://github.com/angel-mora)
+- LinkedIn: [@angelmoradev](https://linkedin.com/in/angelmoradev)
 
-👤 **Author2**
+👤 **Aradnix**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@aradenatorix](https://github.com/aradenatorix)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -228,11 +229,13 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Receive a bunch of chapters, bibliography, photos and other stuff to generate a standard 1/4 A4 fanzine from it.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Syncs org/md/tex]**
+- [ ] **[Creates proper indexing from the references]**
+- [ ] **[Searches for a potential reference to link from the content]**
+- [ ] **[Exports Reveal.js presentation]**
+- [ ] **[Exports lean beautiful html website]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -283,15 +286,15 @@ I would like to thank
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+> The following is a list of frequently asked questions about this project.
 
-- **[Question_1]**
+- **[What is the purpose of this project?]**
 
-  - [Answer_1]
+  - [This book is about Activism and TechnoCritique from a Mexican Programmer's perspective to start a discussion about possible futures.]
 
-- **[Question_2]**
+- **[How can I join the conversation]**
 
-  - [Answer_2]
+  - [Join the Telegram group: https://t.me/LaPartidaLEPHUCR]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

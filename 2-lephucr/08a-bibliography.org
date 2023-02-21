@@ -1,0 +1,4 @@
+* Notas al pie
+  :PROPERTIES:
+  :CUSTOM_ID: notas-al-pie
+  :END:
