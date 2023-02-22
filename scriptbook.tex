@@ -1,27 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+
 \documentclass[fontsize=11pt,chapterprefix=false,headings=big,headsepline=on,paper=5.500in:8.50in,DIV=11,BCOR=5mm,parskip=half+]{scrbook}
+% From the thesis (main.tex) file, which has the script directly and not those params under square brackets.
+% \KOMAoptions{%
+%     fontsize=12pt,%
+%     chapterprefix=true,%
+%     headings=standardclasses,%
+%     headings=big,%
+%     headsepline=on,%
+%     paper=letter,%
+%     %paper=7in:8.5in,% pueds especificar un tamaño propio
+%     DIV=calc,%
+%     BCOR=5mm,%
+%     parskip=full+,%
+%     bibliography=totoc,%
+%     %toc=sectionentrywithoutdots%
+% }
 \usepackage{soul}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[spanish,mexico]{babel}
+\usepackage[english,spanish,mexico]{babel}
 %\usepackage{lmodern}
 %%%%%%% Conjunto DejaVu
 %\usepackage{DejaVuSerifCondensed}
 %\usepackage{DejaVuSansCondensed}
 %\usepackage{DejaVuSansMono}
-%%%%%%% Alegreya y Pandora
-\usepackage{Alegreya}
-\usepackage{AlegreyaSans}
-\usepackage{inconsolata}
+%\usepackage{fontspec}
+%\setmainfont{Spectral-Regular}
+%\setsansfont{Spectral-Medium}
+%\setmonofont{inconsolata}
 %%%%%%% Source Pro
 % \usepackage{sourceserifpro}
 % \usepackage{sourcesanspro}
 % \usepackage{sourcecodepro}
+%%%%%%% Alegreya y Pandora
+\usepackage{Alegreya}
+\usepackage{AlegreyaSans}
+\usepackage{inconsolata}
 \usepackage{textcomp}
+\usepackage{enumitem}
 \usepackage{hologo}
 % \usepackage[outer=3in,inner=1.5in,top=1.5in,bottom=2.5in]{geometry}
 \usepackage[spanish=mexican]{csquotes}
 \usepackage{graphicx}
 \graphicspath{{images/}}
+% \usepackage{xurl}
 \usepackage{url}
 \def\UrlBreaks{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\%\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9\do=\do/\do.\do:}
 %\usepackage{xcolor}
@@ -29,6 +54,24 @@
 \usepackage{layout}
 %\usepackage[draft]{typogrid}
 %\typogridsetup{columns=1}
+\usepackage{epigraph}
+\setlength{\epigraphwidth }{0.50\linewidth}
+%\usepackage{layout} % page config
+%\usepackage[draft]{typogrid} % show page borders
+%\typogridsetup{columns=1} % show 1 column
+
+%%%% From main.tex
+\usepackage[%
+backend=biber,%
+style=authoryear-icomp,%
+autocite=inline,%
+autolang=other,
+sortlocale=auto,%
+isbn=false,%
+url=false,%
+doi=false,%
+]{biblatex}
+\addbibresource{bibliography/tesis-revision-ortografia.bib}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -43,33 +86,42 @@
     pdfproducer={Disonancias}, % producer of the document
     pdfkeywords={} {} {} {}, % list of keywords
     pdfnewwindow=true,      % links in new window
-    %colorlinks=false,       % false: boxed links; true: colored links
-    %linkcolor=gray,          % color of internal links (change box color with linkbordercolor)
-    %citecolor=gray,        % color of links to bibliography
-    %filecolor=gray,      % color of file links
-    %urlcolor=gray           % color of external links
+    colorlinks=true,       % false: boxed links; true: colored links
+    linkcolor=darkgray,          % color of internal links (change box color with linkbordercolor)
+    citecolor=darkgray,        % color of links to bibliography
+    filecolor=darkgray,      % color of file links
+    urlcolor=darkgray           % color of external links
 }
 
-%\usepackage[colorinlistoftodos,textsize=scriptsize,spanish]{todonotes}
+\usepackage[colorinlistoftodos,textsize=scriptsize,spanish]{todonotes}
 
 \newcommand{\didit}[1]{\todo[color=red!40]{#1}} % Indica que esta parte ya está concluida
 \newcommand{\revquotes}[1]{\todo[color=red!95]{Homologar criterio de uso de las comillas.}}
 \newcommand{\addref}[1]{\todo[color=red!90]{[Cita requerida, #1]}} % Indica que hace falta una cita
 \newcommand{\rewrite}[1]{\todo[color=green!40]{#1}} % Nota para comentar que hay que reescribir algo
+\newcommand{\revstyle}[1]{\todo[color=cyan!40]{#1}} % Indica que requiere un ajuste de estilo
 
-%\makeatletter
-%\if@todonotes@disabled
-%\newcommand{\hlfix}[2]{#1}
-%\else
-%\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
-%\fi
-%\makeatother% Resalta texto a corregir y agrega una nota alusiva al margen
+\makeatletter
+\if@todonotes@disabled
+\newcommand{\hlfix}[2]{#1}
+\else
+\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\fi
+\makeatother% Resalta texto a corregir y agrega una nota alusiva al margen
 
-\renewcommand*{\dictumwidth}{0.46\textwidth}
+\makeatletter
+\newcommand{\setconcept}[2]{%
+    \phantomsection
+    #1\def\@currentlabel{\unexpanded{#1}}\label{#2}%
+}
+\makeatother
+
+\renewcommand*{\dictumwidth}{0.46\textwidth} % Commented in main.tex
 
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{4}
-
+\usepackage{setspace}
+\onehalfspacing
 \raggedbottom
 \clubpenalty=10000 % Ajuste de tolerancia de líneas huerfanas
 \widowpenalty=1000 % Ajuste de tolerancia de líneas viudas
@@ -78,7 +130,8 @@
 %\extratitle{y otros ensayos\\ \rule[0.5ex]{\textwidth}{0.5pt} \hfill Lee esto para hacer un cambio real}
 %\subject{Teoría Crítica}
 \title{Lee Esto Para Hacer un Cambio Real}
-%\subtitle{Tecnocrítica y Acción}
+\subtitle{Plantar Cara al Pasado para Imaginar el Porvenir}
+\subtitle{Ensayo sobre la tecnocrítica}
 %\title{Plantar cara al pasado para imaginar el futuro}
 \subtitle{y otros textos}
 \author{La Partida}
