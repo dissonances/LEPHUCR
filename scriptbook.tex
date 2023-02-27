@@ -1,5 +1,15 @@
-\documentclass[fontsize=11pt,chapterprefix=false,headings=big,headsepline=on,paper=5.500in:8.50in,DIV=11,BCOR=5mm,parskip=half+]{scrbook}
-\usepackage{soul}
+\documentclass{scrbook}
+\KOMAoptions{%
+    fontsize=9pt,%
+    chapterprefix=false,%
+    headings=big,%
+    headsepline=on,%
+    paper=4.25in:5.50in,%
+    DIV=11,%
+    BCOR=5mm,%
+    parskip=half+%
+}
+\usepackage{soulutf8}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[spanish,mexico]{babel}
@@ -22,9 +32,9 @@
 \usepackage[spanish=mexican]{csquotes}
 \usepackage{graphicx}
 \graphicspath{{images/}}
-\usepackage{url}
+\usepackage{xurl}
 \def\UrlBreaks{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\%\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9\do=\do/\do.\do:}
-%\usepackage{xcolor}
+\usepackage{xcolor}
 \usepackage{booktabs}
 \usepackage{layout}
 %\usepackage[draft]{typogrid}
@@ -50,20 +60,20 @@
     %urlcolor=gray           % color of external links
 }
 
-%\usepackage[colorinlistoftodos,textsize=scriptsize,spanish]{todonotes}
+\usepackage[colorinlistoftodos,textsize=scriptsize,spanish]{todonotes}
 
 \newcommand{\didit}[1]{\todo[color=red!40]{#1}} % Indica que esta parte ya está concluida
 \newcommand{\revquotes}[1]{\todo[color=red!95]{Homologar criterio de uso de las comillas.}}
 \newcommand{\addref}[1]{\todo[color=red!90]{[Cita requerida, #1]}} % Indica que hace falta una cita
 \newcommand{\rewrite}[1]{\todo[color=green!40]{#1}} % Nota para comentar que hay que reescribir algo
 
-%\makeatletter
-%\if@todonotes@disabled
-%\newcommand{\hlfix}[2]{#1}
-%\else
-%\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
-%\fi
-%\makeatother% Resalta texto a corregir y agrega una nota alusiva al margen
+\makeatletter
+\if@todonotes@disabled
+\newcommand{\hlfix}[2]{#1}
+\else
+\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\fi
+\makeatother% Resalta texto a corregir y agrega una nota alusiva al margen
 
 \renewcommand*{\dictumwidth}{0.46\textwidth}
 
@@ -81,9 +91,9 @@
 %\subtitle{Tecnocrítica y Acción}
 %\title{Plantar cara al pasado para imaginar el futuro}
 \subtitle{y otros tetstos}
-\author{La Partida}
+%\author{La Partida}
 \date{\today}
-%\publishers{\emph{Disonancias}}
+\publishers{La Partida}
 \uppertitleback{\footnotesize
 Primera edición, 2020. \\ 
 
@@ -134,5 +144,5 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 \include{chapters/07-anexos}
 \cleardoublepage
 
-\layout 
+%\layout 
 \end{document}
