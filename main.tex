@@ -1,54 +1,30 @@
-% Old changes from thesis (main.tex)
-% % arara: pdflatex
-% % arara: biber
-% % arara: pdflatex
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
 
-% \documentclass[fontsize=11pt,chapterprefix=false,headings=big,headsepline=on,paper=5.500in:8.50in,DIV=11,BCOR=5mm,parskip=half+]{scrbook}
-% % From the thesis (main.tex) file, which has the script directly and not those params under square brackets.
-% % \KOMAoptions{%
-% %     fontsize=12pt,%
-% %     chapterprefix=true,%
-% %     headings=standardclasses,%
-% %     headings=big,%
-% %     headsepline=on,%
-% %     paper=letter,%
-% %     %paper=7in:8.5in,% pueds especificar un tamaño propio
-% %     DIV=calc,%
-% %     BCOR=5mm,%
-% %     parskip=full+,%
-% %     bibliography=totoc,%
-% %     %toc=sectionentrywithoutdots%
-% % }
-% \usepackage{soul}
 \documentclass{scrbook}
 \KOMAoptions{%
-    fontsize=9pt,%
-    chapterprefix=false,%
+    fontsize=12pt,%
+    chapterprefix=true,%
+    headings=standardclasses,%
     headings=big,%
     headsepline=on,%
-    paper=4.25in:5.50in,%
-    DIV=11,%
+    paper=letter,%
+    %paper=4.25in:5.5in,% puedes especificar un tamaño propio
+    DIV=calc,%
     BCOR=5mm,%
-    parskip=half+%
+    parskip=full+,%
+    bibliography=totoc,%
+    %toc=sectionentrywithoutdots%
 }
-\usepackage{soulutf8}
-\usepackage[utf8]{inputenc}
+\usepackage{soul}
+%\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english,spanish,mexico]{babel}
-%\usepackage{lmodern}
-%%%%%%% Conjunto DejaVu
-%\usepackage{DejaVuSerifCondensed}
-%\usepackage{DejaVuSansCondensed}
-%\usepackage{DejaVuSansMono}
 %\usepackage{fontspec}
 %\setmainfont{Spectral-Regular}
 %\setsansfont{Spectral-Medium}
 %\setmonofont{inconsolata}
-%%%%%%% Source Pro
-% \usepackage{sourceserifpro}
-% \usepackage{sourcesanspro}
-% \usepackage{sourcecodepro}
-%%%%%%% Alegreya y Pandora
 \usepackage{Alegreya}
 \usepackage{AlegreyaSans}
 \usepackage{inconsolata}
@@ -57,22 +33,6 @@
 \usepackage{hologo}
 % \usepackage[outer=3in,inner=1.5in,top=1.5in,bottom=2.5in]{geometry}
 \usepackage[spanish=mexican]{csquotes}
-\usepackage{graphicx}
-\graphicspath{{images/}}
-\usepackage{xurl}
-\def\UrlBreaks{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\%\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9\do=\do/\do.\do:}
-\usepackage{xcolor}
-\usepackage{booktabs}
-\usepackage{layout}
-%\usepackage[draft]{typogrid}
-%\typogridsetup{columns=1}
-\usepackage{epigraph}
-\setlength{\epigraphwidth }{0.50\linewidth}
-%\usepackage{layout} % page config
-%\usepackage[draft]{typogrid} % show page borders
-%\typogridsetup{columns=1} % show 1 column
-
-%%%% From main.tex
 \usepackage[%
 backend=biber,%
 style=authoryear-icomp,%
@@ -84,6 +44,17 @@ url=false,%
 doi=false,%
 ]{biblatex}
 \addbibresource{bibliography/tesis-revision-ortografia.bib}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{xurl}
+\def\UrlBreaks{\do\/\do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j\do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t\do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D\do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N\do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X\do\Y\do\Z\do\%\do0\do1\do2\do3\do4\do5\do6\do7\do8\do9\do=\do/\do.\do:}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{epigraph}
+\setlength{\epigraphwidth }{0.50\linewidth}
+%\usepackage{layout} % page config
+%\usepackage[draft]{typogrid} % show page borders
+%\typogridsetup{columns=1} % show 1 column
 
 \usepackage{hyperref}
 \hypersetup{
@@ -91,11 +62,11 @@ doi=false,%
     pdfmenubar=true,        % show Acrobat’s menu?
     pdffitwindow=false,     % window fit to page when opened
     pdfstartview={FitH},    % fits the width of the page to the window
-    pdftitle={Lee esto 	para hacer un cambio real}, % title
-    pdfauthor={La Partida},     % author
-    pdfsubject={Lee Esto para Hacer Algo Real},   % subject of the document
-    pdfcreator={La Partida},   % creator of the document
-    pdfproducer={Disonancias}, % producer of the document
+    pdftitle={},    % title
+    pdfauthor={Ángel Moma},     % author
+    pdfsubject={},   % subject of the document
+    pdfcreator={Aradenatorix},   % creator of the document
+    pdfproducer={Listopad}, % producer of the document
     pdfkeywords={} {} {} {}, % list of keywords
     pdfnewwindow=true,      % links in new window
     colorlinks=true,       % false: boxed links; true: colored links
@@ -117,9 +88,11 @@ doi=false,%
 \if@todonotes@disabled
 \newcommand{\hlfix}[2]{#1}
 \else
-\newcommand{\hlfix}[2]{\texthl{#1}\todo{#2}}
+\newcommand{\hlfix}[2]{\texthl{#1}\todo[color=cyan!40]{#2}}
 \fi
 \makeatother% Resalta texto a corregir y agrega una nota alusiva al margen
+
+%\renewcommand*{\dictumwidth}{0.46\textwidth}
 
 \makeatletter
 \newcommand{\setconcept}[2]{%
@@ -128,56 +101,51 @@ doi=false,%
 }
 \makeatother
 
-\renewcommand*{\dictumwidth}{0.46\textwidth} % Commented in main.tex
-
 \setcounter{secnumdepth}{4}
-\setcounter{tocdepth}{4}
+\setcounter{tocdepth}{3}
 \usepackage{setspace}
 \onehalfspacing
 \raggedbottom
 \clubpenalty=10000 % Ajuste de tolerancia de líneas huerfanas
 \widowpenalty=1000 % Ajuste de tolerancia de líneas viudas
 
-%\titlehead{Disonancias}
-%\extratitle{y otros ensayos\\ \rule[0.5ex]{\textwidth}{0.5pt} \hfill Lee esto para hacer un cambio real}
-%\subject{Teoría Crítica}
-\title{Lee Esto Para Hacer un Cambio Real}
-\subtitle{Plantar Cara al Pasado para Imaginar el Porvenir}
-\subtitle{Ensayo sobre la tecnocrítica}
-%\title{Plantar cara al pasado para imaginar el futuro}
-\subtitle{y otros textos}
-\author{La Partida}
+\extratitle{Estado y Economía desde Tiqqun:\\ \rule[0.5ex]{\textwidth}{0.5pt} \hfill Perspectivas de Acción Crítica}
+%\titlehead{Tesis}
+\subject{Tesis}
+\title{Estado y Economía desde Tiqqun:}
+\subtitle{Perspectivas de Acción Crítica}
+\author{Angel de Jesús Mora Morales}
 \date{\today}
-\publishers{La Partida}
+\publishers{\emph{Listopad}}
 \uppertitleback{\footnotesize
-Primera edición, 2020. \\
+Primera edición, 2020. \\ 
 
-\textcopyright{} \oldstylenums{2022} Versión 0.1 Disonancias\\
+\textcopyright{} \oldstylenums{2020} Angel de Jesús Mora Morales\\
 }
 
 \lowertitleback{\footnotesize\raggedright
-Diseño, edición y composición: \emph{Disonancias} \\
+Diseño, edición y composición: \emph{Listopad} \\
+
+\bigskip
 
 La composición tipográfica se realizó con Pandoc y \hologo{LuaLaTeX}, mediante el uso de la colección \hologo{KOMAScript} sobre \hologo{LaTeXe}.\\
 
+\bigskip
+
 Los tipos usados en la presente edición son Alegreya y \textsf{Alegreya Sans}, diseñados por Juan Pablo del Peral, para \href{https://www.huertatipografica.com/es}{Huerta Tipográfica}, que se encuentran disponibles en \url{https://github.com/huertatipografica/Alegreya} y \url{https://github.com/huertatipografica/Alegreya-Sans}; complementadas con \texttt{Inconsolata} de Raph Levien para el texto monoespaciado, que se encuentra disponible en \url{https://levien.com/type/myfonts/inconsolata.html}.\\
 
-Edición: La Partida .\\
+\bigskip
 
-Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
+Edición: Araden\v{a}torix\\
+
+\bigskip
+
+Impreso y hecho en México $\bullet$ \emph{Printed in Mexico.}
 }
-% \dedication{}
 
 \begin{document}
 \frontmatter
 \maketitle
-
-\cleardoubleemptypage%pagina 3 epigrafe
-\textcolor{white}{.}\\
-%\vspace{40mm}
-%\thispagestyle{empty}
-
-\dictum[C. I.]{Todo pensamiento es estratégico}
 
 \minisec{Convenciones de estilo}
 
@@ -210,9 +178,9 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 \begin{quotation}
     ¿Cuáles son las posibilidades de actuar en en el momento más incierto y más absurdo de la Historia? Mientras cientos de activistas marchan religiosamente exigiendo al \emph{gobierno} (como si hubiera, de hecho, algo ahí que responda al llamado) un mundo más libre, más justo, más ecológico, los males propios de nuestro tiempo están presentes en todo momento en nuestra vida. Se trata de una configuración tecnológica de la realidad, una disposición de las cosas para que la gente actúe y responda frente a ellas de cierto modo. En la era de información, el rostro del totalitarismo se confunde en un virus capitalista que ciertamente ha dominado la nuda vida: en la sociedad no hay vida así sin más. Corporaciones, máquinas y aparatos ejercen su poder sin ninguna resistencia organizada capaz de proponer una alternativa universal al \emph{estado} actual de las cosas.
 
-    Vivimos una imperceptible guerra civil en la que el enemigo a vencer no está ni siquiera en el montón de idiotas que rigen las corporaciones y los gobiernos nacionales sino en una religiosidad que profesa simpatía por la dominación mercantil. La Iglesia de esta fe se llama Estado moderno y en su génesis se encuentra la posiblidad misma de su destitución. En este texto contribuyo a analizar la relación entre Estado, capitalismo y mercados, así como el funcionamiento de la forma Estado como si se tratase de una ingeniería inversa, de un hackeo, pues el Leviatán funciona a partir de máquinas y de aparatos de captura, tiene agentes pagados que se encargan de cumplir diversas funciones alrededor del proceso de extracción de valor. Además de agentes, posee ejércitos, fuerza de trabajo que alimenta cada día la interacción entre mercados, que a su vez se vuelve el único medio por el cual es posible adquirir los medios de subsistencia. Sin embargo, el virus capitalista hace de cualquier necesidad un producto y del deseo, interés.
+    Vivimos una imperceptible guerra civil en la que el enemigo a vencer no está ni siquiera en el montón de idiotas que rigen las corporaciones y los gobiernos nacionales sino en una religiosidad que profesa simpatía por la dominación mercantil. La Iglesia de esta fe se llama Estado moderno y en su génesis se encuentra la posiblidad misma de su destitución. En este texto contribuyo a analizar la relación entre Estado, capitalismo y mercados, así como el funcionamiento de la forma Estado como si se tratase de una ingeniería inversa, de un hackeo, pues el Leviatán funciona a partir de máquinas y de aparatos de captura, tiene agentes pagados que se encargan de cumplir diversas funciones alrededor del proceso de extracción de valor. Además de agentes, posee ejércitos, fuerza de trabajo que alimenta cada día la interacción entre mercados, que a su vez se vuelve el único medio por el cual es posible adquirir los medios de subsistencia. Sin embargo, el virus capitalista hace de cualquier necesidad un producto y del deseo, interés. 
 
-    No vivimos por sino a pesar del capitalismo, toda relación social está mediada por las mercanías.
+    No vivimos por sino a pesar del capitalismo, toda relación social está mediada por las mercanías. 
 
     Con la caída del modelo de producción fordista y la pulverización de la fábrica nos encontramos no solo frente a un momento de crisis en el modelo de trabajo del hombre-masa sino también frente a la acelerada pauperización de las resistencias y disidencias políticas. El Imperio se caracteriza por un reconocimiento cínico de la imposibilidad del proyecto universalista del Estado. Entonces, la policía y la publicidad, mecanismos del Estado moderno, se transforman en Espectáculo y Biopoder. Se borra todo grado de interioridad en la vida psíquica de las personas pues la Ley ha pasado a ser la norma, a estar completamente internalizada. Nuestras relaciones son espectáculares porque están mediadas a través de la representación cibernética y nuestro deseo bajo el Biopoder porque la industria farmacopornográfica se encarga de generar dinero de la enfermedad y de la frustración sexual. La cibernética es el arte del control, la disciplina propia de tiempos donde la información se vuelve la mercancía que más valor produce.
 
@@ -221,56 +189,35 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
     En este contexto, la acción crítica se inscribe en lo que yo llamo \emph{tecnocrítica}, análisis y develamiento de las condiciones tecnomateriales de posibilidad de las formas hablantes, de formas de opresión como el género, la raza o la clase. Solo así es posible entender los problemas económicos que hacen necesario al Estado y a sus agentes como soporte de información del capitalismo. Con la intención de encontrar una alternativa universalista, analizo diversos manifiestos y posiciones políticas contemporáneas alrededor del Partido y la hegemonía. Concluyo desarrollando algunas notas rumbo a la construcción del manifiesto para un Partido destituyente.
 \end{quotation}
 
+\include{chapters/00-cite}
+
 \tableofcontents
 \listoffigures
 \listoftables
-\listoftodos
+%\listoftodos
+
+\include{chapters/01-intro}
 
 \mainmatter
+\include{chapters/02-chapter1}
+\include{chapters/03-chapter2}
+\include{chapters/04-chapter3}
+\include{chapters/05-chapter4}
 
-\include{2-lephucr/01b-intro}
-\include{2-lephucr/02-cap1}
-\include{2-lephucr/03-cap2}
-\include{2-lephucr/04-cap3}
-\include{2-lephucr/05-cap4}
-\include{2-lephucr/06-cap5}
+%\nocite{*}
+\printbibheading[title={Bibliografía catalogada}]
 
-\dictum[C. I.]{Todo pensamiento es estratégico}
+\printbibliography[type=article, title={Artículos}]
 
-\include{3-accion-critica/00-cite}
-\include{3-accion-critica/01-intro}
-\include{3-accion-critica/02-chapter1}
-\include{3-accion-critica/03-chapter2}
-\include{3-accion-critica/04-chapter3}
-\include{3-accion-critica/05-chapter4}
+\printbibliography[type=book, title={Libros}]
 
+\printbibliography[type=inbook, title={Partes de libros}]
 
-\appendix
-\backmatter
+\printbibliography[type=online, title={Referencias en línea}]
 
-\include{chapters/07-anexos}
-\cleardoublepage
+\printbibliography[type=misc, title={Otras referencias varias}]
 
-% The following are from thesis config
-% \layout
+\printbibliography[type=incollection, title={Suplementos}]
 
-
-% %\nocite{*}
-% \printbibheading[title={Bibliografía catalogada}]
-
-% \printbibliography[type=article, title={Artículos}]
-
-% \printbibliography[type=book, title={Libros}]
-
-% \printbibliography[type=inbook, title={Partes de libros}]
-
-% \printbibliography[type=online, title={Referencias en línea}]
-
-% \printbibliography[type=misc, title={Otras referencias varias}]
-
-% \printbibliography[type=incollection, title={Suplementos}]
-
-% \printbibliography[type=collection, title={Recopilaciones}]
-% \end{document}
-%\layout
+\printbibliography[type=collection, title={Recopilaciones}]
 \end{document}
