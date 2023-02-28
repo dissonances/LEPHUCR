@@ -4,7 +4,7 @@ Esto es un \[pre\]texto, una provocación. Algunas aristas en nuestro
 imaginario. Golpetear los horizontes personales y empezar a cultivar
 visiones comunes.
 
-#yosoy132 fue otra de las explosiones que muestran la fragilidad e
+\#yosoy132 fue otra de las explosiones que muestran la fragilidad e
 ilegitimidad de un régimen del Estado criminal, que ha oprimido
 sistemáticamente a la gente que menos tiene y que asesina a cualquier
 inconforme. Wikipolítica es uno de los frutos de una generación que está
@@ -24,7 +24,7 @@ Todavía nos faltan 43
 
 pero muchas más\...
 
-# Final del texto
+## TODO: Agregar esto a contraportada
 
 *\
 *
