@@ -13,18 +13,18 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[LEPHUCR-002 Generate web article about the book to perform growth marketing]]
-- [ ] [[LEPHUCR-007 Calculate the amount of total chapters]]
-- [ ] LEPHUCR-008 Create public narrative to hold coherence throghout the content
 - [ ] LEPHUCR-009 Create portfolio
-- [ ] LEPHUCR-010 Enable donation links
-- [ ] LEPHUCR-011 Add a note on the fragmentary writing. Little ideas intertwined to create arguments
+- [ ] LEPHUCR-014 Script to generate pdf from template format in Latex
+- [ ] LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated.
 
 
 ## In Progress
 
-- [ ] LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated.
-- [ ] LEPHUCR-014 Script to generate pdf from template format in Latex
+- [ ] [[LEPHUCR-007 Calculate the amount of total chapters]]
+- [ ] [[LEPHUCR-002 Generate web article about the book to perform growth marketing]]
+- [ ] LEPHUCR-010 Enable donation links
+- [ ] LEPHUCR-008 Create public narrative to hold coherence throghout the content
+- [ ] LEPHUCR-011 Add a note on the fragmentary writing. Little ideas intertwined to create arguments
 
 
 ## Peer Review
