@@ -10,7 +10,6 @@ kanban-plugin: basic
 - [ ] LEPHUCR-006 Record a video for each chapter
 - [ ] LEPHUCR-015 Sync up org/md/tex files simoultaneously
 
-
 ## Todo
 
 - [ ] [[LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`]]

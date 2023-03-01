@@ -3,6 +3,9 @@
 - [ ] Pay an Epilogue
 
 # Prólogo
+
+
+
 Escribí el primero libro. Lo escribimos, más bien. Varias pedas, mariguaneadas, debates políticos y así fueron el caldo de cultivo de esta escrita.
 Nació en la regadera de un baño cochino donde estaban hangueando unex poetex. Apestaba a mona, estuvo cagado. TanLang. Se lo vendí a gente de Wikipolítica en un encuentro en Monterrey.
 
