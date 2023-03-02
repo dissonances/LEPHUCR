@@ -1,43 +1,40 @@
-# Read the bibliography file
-bibliography = File.read("1-plantar-cara/08-bibliography.md")
+# Define the filenames for the input and output files
+input_files = Dir.glob("1-plantar-cara/*.md")
+bibliography_file = input_files.pop(&:last)
 
-# Get all the footnotes from the bibliography
-footnotes = bibliography.scan(/\[\^(\d+)\]: (.+)/)
-
-# Group the footnotes by their number
-footnote_hash = Hash.new
-footnotes.each do |footnote|
-  number = footnote[0]
-  text = footnote[1]
-  footnote_hash[number] = text
+# Read the bibliography file and extract the footnote links
+footnote_links = {}
+File.readlines(bibliography_file).each do |line|
+  if line.match(/^\[\^(.*)\]: (.*)$/)
+    footnote_links[$1] = $2.strip
+  end
 end
 
-# Iterate over each Markdown file in the 1-plantar-cara directory
-Dir.glob("1-plantar-cara/*.md") do |file|
-  # Read the contents of the Markdown file
-  contents = File.read(file)
+# Replace the footnote links in the input files
+input_files.each do |input_file|
+  # Read the input file and split it into lines
+  lines = File.readlines(input_file)
 
-  # Find all the references to footnotes in the file
-  references = contents.scan(/\[(\d+)\]/)
+  # Find the index of the "# References" heading
+  references_index = lines.find_index { |line| line.match(/^# References/) }
 
-  # Iterate over each reference to a footnote in the file
-  references.each do |reference|
-    number = reference[0]
-    footnote_text = footnote_hash[number]
+  if references_index
+    # Split the file into the part before and after the references section
+    pre_references = lines[0...references_index]
+    post_references = lines[references_index..-1]
 
-    # Format the footnote text for inclusion in the Markdown file
-    footnote_text = footnote_text.split(": ")[1]
-    footnote_text = footnote_text.gsub(/\[(\d+)\]/, '')
-    footnote_text = "(#{footnote_text})"
+    # Replace any footnote links in the post-references section
+    post_references.map! do |line|
+      line.gsub(/\[\^([^\]]+)\]/) do
+        footnote_number = $1
+        footnote_content = footnote_links[footnote_number]
 
-    # Replace the reference with the formatted footnote text
-    contents = contents.gsub("[#{number}]", "[#{number}#{footnote_text}]")
+        # Format the footnote content and wrap it in parentheses
+        "(#{footnote_content.sub(/^\[\d+\]\s+/, '')})"
+      end
+    end
+
+    # Write the updated file contents to disk
+    File.write(input_file, (pre_references + post_references).join(""))
   end
-
-  # Find the References heading in the file and insert the footnotes
-  contents = contents.gsub("# References", "# References\n\n")
-  contents = contents.gsub("# References\n\n", "# References\n\n#{footnote_hash.values.join("\n\n")}\n\n")
-
-  # Write the modified contents back to the file
-  File.write(file, contents)
 end
