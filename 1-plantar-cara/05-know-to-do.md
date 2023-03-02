@@ -1,11 +1,11 @@
-# Saber hacer[^20]
+# Saber hacer^[http://bit.ly/2sIsMg3]
 
 *Saber técnico*
 
 Wikipolítica es conocida por la imagen buenaonda que presenta
 actualmente. Al buenaondismo teórico nosotras le decimos *ciudadanismo
 radical*. Recordemos que el Wikipartido, antecedente a la Wikipolítica,
-era un proyecto político de naturaleza radicalmente pirata.[^21]
+era un proyecto político de naturaleza radicalmente pirata.^[Aaron Schwartz, por ejemplo.]
 
 Uno de los problemas más graves que enfrentan las resistencias es
 articularse con otros esfuerzos. Muchas redes de movimientos de base, de
@@ -34,7 +34,7 @@ cotidiana es por la autonomía.
 
 Estamos en contra de la noción de "conocimiento" por considerarla un
 discurso totalmente racionalista, que ignora otro tipo de saberes, como
-la sensibilidad artística, la salud[^22] o la relación con la tierra, la
+la sensibilidad artística, la salud^[Salud como buen vivir, por encima de la concepción "capitalista"] o la relación con la tierra, la
 memoria y la conciencia sobre el territorio. Es decir, que una
 militancia activa y consciente requiere que recuperemos la historia como
 la fuente principal de testimonios y experiencias, y que estemos
@@ -85,7 +85,7 @@ El dogmatismo será el enemigo en todo momento. No así la persona
 dogmática. La teoría nos compromete a desarrollar prácticas y nuestras
 prácticas tienen que dar siempre alguna luz respecto a lo que pensamos.
 En ese sentido, también retomamos la impronta que una de nosotras
-compartía sobre Hannah Arendt y el totalitarismo.[^23]
+compartía sobre Hannah Arendt y el totalitarismo.^[http://bit.ly/2EUS3IR]
 
 La postura provisional que por cuestiones estratégicas reconocemos como
 el espíritu actual de Wikipolítica, a lo que hemos llamado *ciudadanismo
@@ -123,7 +123,7 @@ de la imagen) y la reapropiación de las tecnologías para la democracia.
 Nuestra Partida no debe ser más que una vía para la construcción del
 movimiento de apertura tecnológica de nuestra Historia. Su compromiso es
 con el paradigma interseccional, que parte de la idea de los
-conocimientos situados.[^24]
+conocimientos situados.^[http://bit.ly/2EUUCdX]
 
 *Estrategia*
 
@@ -138,13 +138,13 @@ Dentro de nuestro programa político está la urgencia de abrir hasta el
 opresión tal que imposibilita que una vida particular no pueda
 desarrollarse como potencia. Bien claro está que la guerra contra la
 Metafísica totalitaria de Occidente está en una nueva ciencia de los
-dispositivos, como lo señala Tiqqun.[^25]
+dispositivos, como lo señala Tiqqun.^[http://bit.ly/2EWvIL7]
 
 La cuestión, como la vemos, se trata de acercar el marxismo a la calle,
 a la no-clase proletaria, a las indígenas, a las putas, a las trans, a
 las empleadas domésticas y con mayor urgencia a las mujeres negras, cuyo
 papel en la historia de este país ha sido radicalmente
-invisibilizado.[^26]
+invisibilizado.^[Para eso están Franz Fanon (http://bit.ly/2ETEf1t) y las]
 
 Una vez que logremos consolidar una infraestructura común y dinámicas
 para comunicarnos, es necesario que abramos canales de comunicación.
@@ -190,7 +190,7 @@ buscan extraer utilidad de cada rincón del planeta hasta dejarlo seco,
 vacío, muerto. Nota: para lograrlo tenemos bien presente que las
 relaciones de intercambio capitalista están sujetos a cambios que nos
 obligan a estudiarlo con profundidad, tanto en su dimensión económica
-como afectiva.[^27]
+como afectiva.^[Algo de esto hace Brigitte Vasallo en sus *Amores, redes]
 
 Pero al final, si los que se joden no pueden defenderse sin necesidad de
 que un opresor tenga el cuidado de advertir que está siendo un mal amo,
