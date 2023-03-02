@@ -51,17 +51,9 @@ lapartidaeditorial@gmail.com
 
 [^10]: http://bit.ly/2omZTkh
 
-[^11]: El mejor remedio para los fascistas de sonrisa cínica y espíritu
-    perverso es molerlos a palos. Pero nos conformamos con que sean
-    expulsados.
+[^11]: El mejor remedio para los fascistas de sonrisa cínica y espíritu perverso es molerlos a palos. Pero nos conformamos con que sean expulsados.
 
-[^12]: Nuestra normativa está basada en buscar las expresiones mínimas a
-    través del retorno a la casuística, más allá de la pretensión
-    universalista de los sistemas jurídicos legalistas que dan
-    fundamento al Estado hoy en día. El retorno a los principios y
-    valores como guías de comportamiento ético son la clave para
-    rescatar a la política, que se quedó atrapada en las garras de la
-    magia negra contemporánea (http://bit.ly/2BIlThZ).
+[^12]: Nuestra normativa está basada en buscar las expresiones mínimas a través del retorno a la casuística, más allá de la pretensión universalista de los sistemas jurídicos legalistas que dan fundamento al Estado hoy en día. El retorno a los principios y valores como guías de comportamiento ético son la clave para rescatar a la política, que se quedó atrapada en las garras de la magia negra contemporánea (http://bit.ly/2BIlThZ).
 
 [^13]: http://bit.ly/2Cddx31
 
@@ -71,9 +63,7 @@ lapartidaeditorial@gmail.com
 
 [^16]: http://bit.ly/2sLAaYc
 
-[^17]: Este saber en particular plantea el problema de cómo aterrizar
-    una idea a una implementación material. En este sentido, el diseño
-    es una técnica de la presencia.
+[^17]: Este saber en particular plantea el problema de cómo aterrizar una idea a una implementación material. En este sentido, el diseño es una técnica de la presencia.
 
 [^18]: http://bit.ly/2sHrsud
 
@@ -83,12 +73,7 @@ lapartidaeditorial@gmail.com
 
 [^21]: Aaron Schwartz, por ejemplo.
 
-[^22]: Salud como buen vivir, por encima de la concepción "capitalista"
-    clásica que define la salud en sentido negativo, como ausencia de
-    enfermedad, como lo mínimo necesario para que las personas estén
-    aptas para producir.
-
-    *https://www.theguardian.com/sustainable-business/blog/buen-vivir-philosophy-south-america-eduardo-gudynas*
+[^22]: Salud como buen vivir, por encima de la concepción "capitalista" clásica que define la salud en sentido negativo, como ausencia de enfermedad, como lo mínimo necesario para que las personas estén aptas para producir. *https://www.theguardian.com/sustainable-business/blog/buen-vivir-philosophy-south-america-eduardo-gudynas*
 
 [^23]: http://bit.ly/2EUS3IR
 
@@ -96,19 +81,14 @@ lapartidaeditorial@gmail.com
 
 [^25]: http://bit.ly/2EWvIL7
 
-[^26]: Para eso están Franz Fanon (http://bit.ly/2ETEf1t) y las
-    feministas negras (http://bit.ly/2EYLLYK).
+[^26]: Para eso están Franz Fanon (http://bit.ly/2ETEf1t) y las feministas afro (http://bit.ly/2EYLLYK).
 
-[^27]: Algo de esto hace Brigitte Vasallo en sus *Amores, redes
-    afectivas y revoluciones* (http://bit.ly/2EWEk4f).
+[^27]: Algo de esto hace Brigitte Vasallo en sus *Amores, redes afectivas y revoluciones* (http://bit.ly/2EWEk4f).
 
 [^28]: http://bit.ly/2sMY8lO
 
-[^29]: Parte del sentimiento localista nos llama a poner atención al
-    folklor tradicional de cada territorio.
+[^29]: Parte del sentimiento localista nos llama a poner atención al folklor tradicional de cada territorio.
 
 [^30]: http://bit.ly/2EWEk4f
 
-[^31]: Dado que neutralizar el lenguaje significa cederlo a la
-    comprensión conceptual de la derecha. Mouffe sobre Wittgenstein:
-    http://bit.ly/2EZxMlo
+[^31]: Dado que neutralizar el lenguaje significa cederlo a la comprensión conceptual de la derecha. Mouffe sobre Wittgenstein: http://bit.ly/2EZxMlo
