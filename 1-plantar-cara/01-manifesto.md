@@ -22,7 +22,7 @@ está siempre la posibilidad de renunciar y volver a la búsqueda de la
 corona del rey.
 
 Otra persona me salva. Su miseria me recuerda cuán cómplice soy de su
-opresión pero siento también un grato regocijo verle sufrir[^1]. A veces
+opresión pero siento también un grato regocijo verle sufrir^[http://bit.ly/2sJG4sH]. A veces
 llamamos humanidad a su regocijo, otras veces, deseo, pero ellos llaman
 resentimiento de clase a nuestra mirada. La que necesitan para vivir.
 
@@ -53,7 +53,7 @@ la civilización, del cosmopolitismo urbano.
 Como en la Atenas, en esta guerra quien no toma partido es cómplice de
 la desidia. Nosotros queremos cimbrar la historia, devenir real en
 simulacro, queremos El Partido. Una singularidad con campos de
-patatas.[^2]
+patatas.^[http://bit.ly/2sJGuzh]
 
 \*\*
 
@@ -63,7 +63,7 @@ es más que un juego.
 
 Por este movimiento de desmodernización, de devenir residuo, El Partido,
 con sus aspiraciones a conformar un nuevo Estado, es disuelto por el
-ácido de su propia ambición.[^3] De sus cenizas surge un ethos político
+ácido de su propia ambición.^[http://bit.ly/2om3j6Z] De sus cenizas surge un ethos político
 al que llamamos La Partida.
 
 La Partida es lo que quieran.
@@ -84,7 +84,7 @@ La división, el inicio.
 
 El juego, la lucha sin mi rostro en la historia.
 
-Una improvisación.[^4]
+Una improvisación.^[http://bit.ly/2omFE6m]
 
 Las que tenemos miedo (de la voluntad de poder, de nuestras sombras),
 las que somos jardineras silenciosas de ese porvenir, somos las que

@@ -26,7 +26,7 @@ en la causa más allá de los medios institucionalizados.
 En ese sentido, Wikipolítica sí está más allá de la izquierda y de la
 derecha, y eso significa que lo que puede hacer como un avance más allá
 de lo ideológico es brindar el aparato técnico necesario para eficientar
-distintas luchas. [^28]
+distintas luchas. ^[http://bit.ly/2sMY8lO]
 
 \*\*
 
@@ -38,11 +38,11 @@ no tenemos esperanza.
 
 No esperamos. Ya nos han arrebatado la idea de un futuro, lo único que
 nos queda es el ahora, una práctica constante de la autonomía.
-Recuperemos el valor de himnos de revolución[^29] como el SKA,
+Recuperemos el valor de himnos de revolución^[Parte del sentimiento localista nos llama a poner atención al folklor tradicional de cada territorio.] como el SKA,
 apropiemonos del perreo y no dejemos que el Espectáculo nos diga cómo y
 para quién debemos mover nuestros culos. Luchemos por combatir el amor
 Disney, alimentado de fantasías y abracemos un amor de entrega, de
-incertidumbre, de complicidad y de lucha.[^30]
+incertidumbre, de complicidad y de lucha.^[http://bit.ly/2EWEk4f]
 
 El sentir de la izquierda es afín a la wiki. No nos representa en cuanto
 parte de la misma impronta ilustrada que ignora y continúa reprimiendo

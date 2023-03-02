@@ -20,7 +20,7 @@ en la apertura misma al diálogo.
 Una de nosotras nos recordó la importancia de la alegría rebelde.
 Gocemos que todavía estamos de pie, luchando y reconozcamos que si no
 nos entendemos todavía es porque tenemos que crear un lenguaje común, no
-neutralizado[^31], sino deliberado.
+neutralizado^[Dado que neutralizar el lenguaje significa cederlo a la comprensión conceptual de la derecha. Mouffe sobre Wittgenstein: http://bit.ly/2EZxMlo], sino deliberado.
 
 Disentir a través del diálogo y no de la necropolítica. Organizar
 subjetividades históricas en cuerpos políticos. La ultraderecha adopta
