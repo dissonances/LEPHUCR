@@ -1,7 +1,7 @@
 # La lucha institucional
 
 Estamos en guerra. Desde 2016, por modificaciones al artículo 29
-constitucional, vivimos en un Estado de excepción.^[http://eluni.mx/2sKJJGW] No basta sino
+constitucional, vivimos en un Estado de excepción.[^7] No basta sino
 observar el despliegue y la militarización de las fuerzas del orden para
 darse cuenta que a la partidocracia, dirigida por machos profundamente
 alienados e inhumanos, no les importa nada. Ni nuestras vidas, ni la de
@@ -20,7 +20,7 @@ idea de abrir espacios.
 El porvenir en el que creemos no es progresista. La historia no tiene un
 motor, el momento político e histórico único es el ahora y la única
 forma de *creer* es *asiendo* (aser: del juego ser-hacer). Nosotras
-tenemos fe en un mundo donde quepan muchos mundos^[http://bit.ly/2Cc66ce] porque peleamos
+tenemos fe en un mundo donde quepan muchos mundos[^8] porque peleamos
 por ello, peleamos. Nuestra guerra siempre es en el presente, territorio
 de la presencia.
 
@@ -49,10 +49,10 @@ vital y espontánea, que hace que un átomo se una o se separe de otro.
 \*\*
 
 La estrategia ha sido abrir los Congresos. Esto nos brinda ahora la
-posibilidad de escribir la Historia,^[http://bit.ly/2BIiKib] pues la toma del Poder
+posibilidad de escribir la Historia,[^9] pues la toma del Poder
 Legislativo nos permitirá ser un puente de diálogo con distintos
 sentires, como lo señaló Kumamoto en su campaña a la Diputación del
-distrito 10 en Zapopan.^[http://bit.ly/2omZTkh]
+distrito 10 en Zapopan.[^10]
 
 De manera que la toma legítima del Congreso es un puente para la
 co-creación popular de un porvenir común. Esto significa simplemente
@@ -93,12 +93,12 @@ más allá de la lógica utilitarista, fundamento de la magia negra. La
 intolerancia, el autoritarismo o la intransigencia. Los discursos que
 atenten contra la determinación libre y voluntariosa de la persona deben
 ser contenidos y este es un límite al que no estamos dispuestas a
-renunciar.^[El mejor remedio para los fascistas de sonrisa cínica y espíritu]
+renunciar.[^11]
 
 La apuesta ético-política de muchas de nosotras al interior de la wiki
 se ve magnificada por el hecho mismo de tener como recursos de
 interpretación de las normas una serie de preceptos que guían nuestra
-conducta y acompañan nuestras decisiones paso por paso.^[Nuestra normativa está basada en buscar las expresiones mínimas a]
+conducta y acompañan nuestras decisiones paso por paso.[^12]
 
 Nosotras creemos que Wikipolítica se funda en la empatía. Este
 sentimiento nos permite reconocer que la diferencia radical de las

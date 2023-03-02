@@ -21,7 +21,7 @@ input_files.each do |filename|
     number = $~[:number]
     #require 'pry-byebug'; binding.pry
     if footnote_links.key?(number)
-      "^[#{footnote_links[number]}]"
+      "^(#{footnote_links[number]})"
     else
       match
     end
