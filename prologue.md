@@ -1,5 +1,3 @@
-# Prólogo
-
 No vivimos por sino a pesar del capitalismo, toda relación social está mediada por las mercanías. Y el capitalismo ganó hace mucho.
 
 ¿Cuáles son las posibilidades de actuar en en el momento más incierto y más absurdo de la Historia desde mi circunstancia específica?
