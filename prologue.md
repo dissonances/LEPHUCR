@@ -1,73 +1,58 @@
-¿Cuáles son las posibilidades de actuar en en el momento más incierto y
-más absurdo de la Historia? Mientras cientos de activistas marchan
-religiosamente exigiendo al *gobierno* (como si hubiera, de hecho, algo
-ahí que responda al llamado) un mundo más libre, más justo, más
-ecológico, los males propios de nuestro tiempo están presentes en todo
-momento en nuestra vida. Se trata de una configuración tecnológica de la
-realidad, una disposición de las cosas para que la gente actúe y
-responda frente a ellas de cierto modo. En la era de información, el
-rostro del totalitarismo se confunde en un virus capitalista que
-ciertamente ha dominado la nuda vida: en la sociedad no hay vida así sin
-más. Corporaciones, máquinas y aparatos ejercen su poder sin ninguna
-resistencia organizada capaz de proponer una alternativa universal al
-*estado* actual de las cosas.
+# Prólogo
 
-Vivimos una imperceptible guerra civil en la que el enemigo a vencer no
-está ni siquiera en el montón de idiotas que rigen las corporaciones y
-los gobiernos nacionales sino en una religiosidad que profesa simpatía
-por la dominación mercantil. La Iglesia de esta fe se llama Estado
-moderno y en su génesis se encuentra la posiblidad misma de su
-destitución. En este texto contribuyo a analizar la relación entre
-Estado, capitalismo y mercados, así como el funcionamiento de la forma
-Estado como si se tratase de una ingeniería inversa, de un hackeo, pues
-el Leviatán funciona a partir de máquinas y de aparatos de captura,
-tiene agentes pagados que se encargan de cumplir diversas funciones
-alrededor del proceso de extracción de valor. Además de agentes, posee
-ejércitos, fuerza de trabajo que alimenta cada día la interacción entre
-mercados, que a su vez se vuelve el único medio por el cual es posible
-adquirir los medios de subsistencia. Sin embargo, el virus capitalista
-hace de cualquier necesidad un producto y del deseo, interés.
+No vivimos por sino a pesar del capitalismo, toda relación social está mediada por las mercanías. Y el capitalismo ganó hace mucho.
 
-No vivimos por sino a pesar del capitalismo, toda relación social está
-mediada por las mercanías.
+¿Cuáles son las posibilidades de actuar en en el momento más incierto y más absurdo de la Historia desde mi circunstancia específica?
 
-Con la caída del modelo de producción fordista y la pulverización de la
-fábrica nos encontramos no solo frente a un momento de crisis en el
-modelo de trabajo del hombre-masa sino también frente a la acelerada
-pauperización de las resistencias y disidencias políticas. El Imperio se
-caracteriza por un reconocimiento cínico de la imposibilidad del
-proyecto universalista del Estado. Entonces, la policía y la publicidad,
-mecanismos del Estado moderno, se transforman en Espectáculo y Biopoder.
-Se borra todo grado de interioridad en la vida psíquica de las personas
-pues la Ley ha pasado a ser la norma, a estar completamente
-internalizada. Nuestras relaciones son espectáculares porque están
-mediadas a través de la representación cibernética y nuestro deseo bajo
-el Biopoder porque la industria farmacopornográfica se encarga de
-generar dinero de la enfermedad y de la frustración sexual. La
-cibernética es el arte del control, la disciplina propia de tiempos
-donde la información se vuelve la mercancía que más valor produce.
+Mientras cientos de activistas marchan religiosamente exigiendo al *gobierno* (como si hubiera, de hecho, algo ahí que responda al llamado) un mundo más libre, más justo, más ecológico, los males propios de nuestro tiempo están presentes en todo momento en nuestra vida. Se trata de una configuración tecnológica de la realidad, una disposición de las cosas para que la gente actúe y responda frente a ellas de cierto modo. En la era de información, el rostro del totalitarismo se confunde en un virus capitalista que ciertamente ha dominado la nuda vida: en la sociedad no hay vida así sin más. Corporaciones, máquinas y aparatos ejercen su poder sin ninguna resistencia organizada capaz de proponer una alternativa universal al *estado* actual de las cosas.
 
-Frente al sinsentido contemporáneo, el *sujeto* experimenta también una
-crisis profunda. El Comité Invisible llama Bloom al hombre-masa que se
-encuentra en el límite de la deserción, frustrado y castrado, enfermo de
-nihilismo y dispuesto al afuera. Sin embargo, la redención de esta forma
-masculina ha producido un Partido de la nada, la neorreacción, con una
-agenda tecnoutópica cuyo fin es hacer total el poder de la cibernética
-imperial. El Bloom es un hombre cínico que ha perdido incluso el
-significado que le daba el trabajo como recompensa frente a la
-alienación de verse reducido a un mero instrumento en una cadena de
-producción viva. Su fuerza vital es capturada por los agentes del
-Estaado encargados de producir el *deseo de Estado* para alimentar una
-posición totalitaria y exterminista detrás de la que en realidad se
-oculta un profundo sentimiento infantil de abandono y represión sexual.
+Vivimos una imperceptible guerra civil en la que el enemigo a vencer no está ni siquiera en el montón de idiotas que rigen las corporaciones y los gobiernos nacionales sino en una religiosidad que profesa simpatía por la dominación mercantil. La Iglesia de esta fe se llama Estado moderno y en su génesis se encuentra la posiblidad misma de su destitución. En este texto contribuyo a analizar la relación entre Estado, capitalismo y mercados, así como el funcionamiento de la forma Estado como si se tratase de una ingeniería inversa, de un hackeo, pues el Leviatán funciona a partir de máquinas y de aparatos de captura, tiene agentes pagados que se encargan de cumplir diversas funciones alrededor del proceso de extracción de valor. Además de agentes, posee ejércitos, fuerza de trabajo que alimenta cada día la interacción entre mercados, que a su vez se vuelve el único medio por el cual es posible adquirir los medios de subsistencia. Sin embargo, el virus capitalista hace de cualquier necesidad un producto y del deseo, interés.
 
-En este contexto, la acción crítica se inscribe en lo que yo llamo
-*tecnocrítica*, análisis y develamiento de las condiciones
-tecnomateriales de posibilidad de las formas hablantes, de formas de
-opresión como el género, la raza o la clase. Solo así es posible
-entender los problemas económicos que hacen necesario al Estado y a sus
-agentes como soporte de información del capitalismo. Con la intención de
-encontrar una alternativa universalista, analizo diversos manifiestos y
-posiciones políticas contemporáneas alrededor del Partido y la
-hegemonía. Concluyo desarrollando algunas notas rumbo a la construcción
-del manifiesto para un Partido destituyente.
+...
+
+Escribí el primero libro. Lo escribimos, más bien. Varias pedas, mariguaneadas, debates políticos y así fueron el caldo de cultivo de esta escrita.
+Nació en la regadera de un baño cochino donde estaban hangueando unex poetex. Apestaba a mona, estuvo cagado. TanLang. Se lo vendí a gente de Wikipolítica en un encuentro en Monterrey.
+
+Fue el primer texto que ahora da forma a esta compilación.
+El segundo fue un esfuerzo por autopublicar en 2018 que me llevó a tener la oportunidad de trabajar con el gran @aradnix. Empecé a programar según yo para poder hacer este libro. Me tomó 5 años. Pero en el proceso terminé lo de la Acción Crítica para recuperar mi alma de la madre UNAM.
+Así, este libro presentado también como un repo de GitHub tiene en su *log* el proceso de revisitar ambos textos desde algunas cosas un poco más claras y extendidas en relación con la tecnocrítica.
+*Plantar Cara al Pasado para Imaginar el Porvenir* es básicamente un argumento sobre el futuro de personas que veíamos en Wikipolítica una serie de referencias más de lucha, resistencia y crítica.
+*LEPHUCR* es un intento divulgativo por compartir una suerte de visión alrededor de una lucha social en un común con gente de mi generación, en el contexto de México, desde lo público y ahondando poco en la relación entre la teoría y mi propia situación actual de programador *priviledged* que pasó de la teoría a una forma más cibernética de *hacer*. Como una anécdota personal, la referencia que hago al repositorio de Decidim fue lo que me motivó a aprender Ruby on Rails y comenzar mi carrera como programador.
+*Sobre la Acción Crítica* ahonda sobre mi inquietud personal con el movimiento neorreaccionario y la derecha alternativa en Estados Unidos. A partir de algunos síntomas estéticos de la cultura contemporánea, trato de plantear algunos problemas históricos sobre la crisis del Estado contemporáneo. Se centra alrededor de una alternativa al *status quo*.
+
+Plantar cara fue en marzo 2018. LEPHUCR nunca fue publicado. Muy probablemente pausé en 2020. Terminé Sobre la Acción Crítica en 2021. Me parece un largo camino el emprendido desde entonces hasta hoy que escribo más código que otras formas más libres. Y que la realidad de mi segmento de mercado me alcanzó. Esta compilación tiene la caca de mi proceso psicoanalítico y no pretendo que hable de otro lugar que no sea desde el mío. Ha significado para mí la decisión de hacer de La Partida algo ajeno a mí, que me encantaría me rebase. Es quizá por eso que este texto no vio la luz de otras miradas sino hasta casi 5 años después de haber sido concebido y 3 años de casi terminado.
+
+Después de repasar estos textos para editarlos en conjunto, me di cuenta de que hay cosas que doy por sentadas y no defino explícitamente. Esa multitud a la que me refiero constantemente, esa subjetividad indeterminada, el *sé* de Tiqqun, estaba compuesta por muchas personas que teníamos un sentimiento y compartimos una pasión por otras formas políticas más... radicales, quizá? que las elecciones. Y alimentada mucho mucho mucho por el Comité Invisible y más adelante por Tiqqun. Y por algunos debates de alto nivel (por lo superficiales) sobre posturas como la de Inventar el Futuro de Nick Srnicek. El *call to action* en general es el mismo que el planteado en LEPHUCR. Crear un rizoma de organizaciones con fines que trasciendan la narrativa de la historia contemporánea.
+
+Tengo que confesar que pasé del tecnosolucionismo a la misma conclusión de antes: se necesita una formación colectiva capaz de observar los agenciamientos de captura y de accionar en esos contextos. Se necesitar disponer-se. Las conspiraciones se construyen de la astucia constante de sus agentes. De lo incansable de sus esfuerzos. Y esos esfuerzos son también escritura, instrucciones, sistemas.
+
+Respecto al tono del texto, esta primera versión transita de una lírica íntima hasta un texto mucho más académico e impersonal, sin dejar de hacer algunas referencias a mi contexto como escritore. LEPHUCR es un punto intermedio, que pese a que surge de la sensibilidad, sobre una serie de apreciaciones sobre experiencias de mis primeros años de vida universitaria, tiene como línea discursiva casi total *lo público*. En ese sentido, está dispuesto al afuera. Un mix débil entre la narrativa de los politólogos sobre la Elección Pública y la estirpe de Saul Alinsky. Pero en el terreno hay mucho más allá que solo lo público. Y es ahí donde es necesario analizar la dominación mercantil como proceso, flujo e historia.
+
+Volviendo a las referencias, quisiera añadir que sería imposible ahondar con suficiente profundidad en los contenidos de este texto, particularmente la segunda y tercera parte que involucran un análisis más intenso del capitalismo, sin una revisión de Capitalismo y Esquizofrenia, particularmente los capítulos sobre la Máquina de Guerra y el Aparato de Captura.
+...
+
+Con la caída del modelo de producción fordista y la pulverización de la fábrica nos encontramos no solo frente a un momento de crisis en el modelo de trabajo del hombre-masa sino también frente a la acelerada pauperización de las resistencias y disidencias políticas. El Imperio se caracteriza por un reconocimiento cínico de la imposibilidad del proyecto universalista del Estado. Entonces, la policía y la publicidad, mecanismos del Estado moderno, se transforman en Espectáculo y Biopoder. Se borra todo grado de interioridad en la vida psíquica de las personas pues la Ley ha pasado a ser la norma, a estar completamente internalizada. Nuestras relaciones son espectáculares porque están mediadas a través de la representación cibernética y nuestro deseo bajo el Biopoder porque la industria farmacopornográfica se encarga de generar dinero de la enfermedad y de la frustración sexual. La cibernética es el arte del control, la disciplina propia de tiempos donde la información se vuelve la mercancía que más valor produce.
+
+Frente al sinsentido contemporáneo, el *sujeto* experimenta también una crisis profunda. El Comité Invisible llama Bloom al hombre-masa que se encuentra en el límite de la deserción, frustrado y castrado, enfermo de nihilismo y dispuesto al afuera. Sin embargo, la redención de esta forma masculina ha producido un Partido de la nada, la neorreacción, con una agenda tecnoutópica cuyo fin es hacer total el poder de la cibernética imperial. El Bloom es un hombre cínico que ha perdido incluso el significado que le daba el trabajo como recompensa frente a la alienación de verse reducido a un mero instrumento en una cadena de producción viva. Su fuerza vital es capturada por los agentes del Estaado encargados de producir el *deseo de Estado* para alimentar una posición totalitaria y exterminista detrás de la que en realidad se oculta un profundo sentimiento infantil de abandono y represión sexual.
+
+...
+
+Un evento muy importante que tener en mente fue que Wikipolítica fracasó. El partido Futuro Jalisco impulsado por la gente con el hambre electoral y el trabajo de campo necesario para lanzarse a la búsqueda de un presupuesto para competir. No quisiera hablar demasiado sobre el tema más que lo que ya trata LEPHUCR, por ejemplo. Me conformo por señalar que el grupo dominante no supo construir una sinergia de sus grupos adversarios ni continuar con el desarrollo de una cultura organizacional. Algo muy triste para un proyecto "wiki". La intención de los primeros textos fue socializar algunas ideas para militantes de Wikipolítica que venían de un contexto muy fresa y poco socializado con otras prácticas políticas, que no tenían una formación teórica y que no tenían una visión de la política como una práctica social. La idea era que se pudieran organizar en grupos de trabajo y que pudieran hacer algo. Algo que no fuera una campaña electoral. Algo que no fuera una marcha.
+
+En medio del fracaso de Wikipolítica (cuyo capital social fue absorbido por unas cuantas carreras políticas) tuve que afrontar mi realidad material. Gracias a ello, mi condición real de trabajador comenzó con mayor seriedad hasta abril del 2019. Mucho más Leonor Silvestri. Mucho más entendimiento del capital especulativo. Mucho más experiencia del trabajo sobre mi cuerpo. Ambas vertientes, molar y molecular, rebasadas unas veces, exhaustadas otras. Quizá ya se podrían contar en kilos los gramos de mota que me he fumado desde entonces, y en galones la cantidad de semen que he desperdiciado con la pornografía. Quizá desde entonces he entendido el operaísmo desde otra posición que no fuera la del antropólogo...
+
+¿Qué nos faltó en Wikipolítica? De alguna manera todo es perfecto porque es como es y no pudo haber sido de otra forma porque ya es. No tenemos *portal guns* para desdoblar el espacio tiempo. Sin haber vivido lo vivido no entenderíamos lo que hoy tenemos y el único terreno donde se puede disputar la realidad es aquí (donde estés) y a partir de ahora. En un plano más relativo, diría que al grupo de La Partida nos faltó operatividad, puesta en escena, implementación. Es difícil. Muchas cuerpas, muchos deseos. A veces los dispositivos de poder nos desbordan, trascienden nuestra capacidad, yacen en el campo de lo inconsciente. Mucho ego. Me incluyo en todo momento. Sin embargo, La Partida es quizá más ese espíritu que vive en todex y que forma una complicidad en el tiempo. Quizá.
+
+Por mi parte, me obsesioné con una pregunta de Tiqqun: *¿Cómo hacer?*
+¿Cómo puedo reconocer las formas de poder que habito/me atraviesan/de las que participo? ¿Cómo deseo? Así, esas interrogantes participan constantemente en este texto, buscando hacer efectivas sus corazonadas en improvisaciones. En gestos precisos, prácticas de visibilización del agenciamiento, táctica social.
+Al menos de eso va este intento.
+
+La acción crítica se inscribe en lo que yo llamo *tecnocrítica*, análisis y develamiento de las condiciones tecnomateriales de posibilidad de las formas hablantes, de formas de opresión como el género, la raza o la clase. Solo así es posible entender los problemas económicos que hacen necesario al Estado y a sus agentes como soporte de información del capitalismo. Con la intención de encontrar una alternativa universalista, analizo diversos manifiestos y posiciones políticas contemporáneas alrededor del Partido y la hegemonía. Concluyo desarrollando algunas notas rumbo a la construcción del manifiesto para un Partido destituyente.
+
+Lo que me resta decir de la tecnocrítica es que devenir hacker es una disposición libidinal, más que una lucha un vacilar constante entre apretar y soltar, entre lo milagroso y lo siniestro, entre lo real y la nada. Pero también una aceptación de la vacuidad. Y al ser también una crítica sobre la *tekné*, es también una disposición a desdibujar las barreras entre las formas de saberes, desarrollar entrecruzamientos epistémicos.
+
+...
+
+En Plantar Cara hago referencia a las luchas sociales en México, en particular a los estudiantes asesinados por el Ejército Mexicano. Siento un profundo pesar por ellos y deseo con todo mi corazón la realización de su forma de vida a las madres que buscan a sus desaparecidos, así como a quienes en lo molecular somos parte del entramado sádico de relaciones de poder que dan forma  a la sociedad. Todavía sigo creyendo que hay muchas personas que nos faltan, sin embargo hoy no me siento capaz de enunciar los cánticos tradicionales del activismo. No sufro de sus mismos dolores, ni es mi dolor necesitado para nadie. No es mi forma particular de habitar el espectáculo. Sin embargo, todex somos seres sufrientes pero trascender esa condición escapa a la teoría.
+
+Muchas gracias a Pelzomling y a les instructores que me han enseñado tanto. Gracias al maestro Chogyal Namkhai Norbu. Debo mucha práctica.
