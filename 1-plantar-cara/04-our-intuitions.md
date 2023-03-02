@@ -17,7 +17,7 @@ Para nosotras, la revolución política consiste en abrir, en permitir la
 autonomía de las personas en una era en la que es técnicamente posible
 hacerlo. Por ello queremos abrir espacios en la wiki para crear
 herramientas desde el movimiento. Esto significa disminuir los costos a
-través de filosofías como la de Open Spaces^(http://bit.ly/2Cddx31) para permitir que todas
+través de filosofías como la de Open Spaces[^13] para permitir que todas
 las wikis seamos co-creadoras. De este modo, la wiki podría operar con
 una base mínima de responsables y al mismo tiempo generar una cultura
 que *okupa* territorios en disputa.
@@ -41,7 +41,7 @@ pero especialmente para nosotras.
 
 En otro tiempo, muchas de nosotras fuimos ya integrantes del Partido
 Internacional de la Juventud, pero todavía no lo sabemos. Fuimos yippies
-antes de ser tecnócratas.^(http://bit.ly/2sKlqbU) Abrimos tecnologías. Ya hackeamos el
+antes de ser tecnócratas.[^14] Abrimos tecnologías. Ya hackeamos el
 deseo de muchos conservadores pero la dictadura del Espectáculo nos
 condujo de vuelta a las sombras.
 
@@ -81,14 +81,14 @@ un problema? ¿cómo abres los dolores o el goce de una a la otra? Como
 parte de las tecnologías desde y para nosotras, pensamos que un taller
 para aprender a trabajar en equipo debe incluir dinámicas para decirnos
 las cosas, hablar desde nuestras experiencias de vida, confiando en que
-está bien sentirse vulnerable. ¡Aquí no se vale ser machín!^(http://bit.ly/2ELjjKR)
+está bien sentirse vulnerable. ¡Aquí no se vale ser machín![^15]
 
 \*\*
 
 El proletariado del que escribe Marx no puede ser entendido nunca como
 una clase porque el proletariado es la no-clase por excelencia. Son los
 nadie, los que, citando a Galeano, cuestan menos que la bala que los
-mata.^(http://bit.ly/2sLAaYc) Es el niño que te vende chicles o la embarazada que te vende
+mata.[^16] Es el niño que te vende chicles o la embarazada que te vende
 cigarros afuera del antro. El proletariado se caracteriza por no jugar
 ningún papel en la historia más que el de superviviente.
 
@@ -110,13 +110,13 @@ dominio.
 
 *El dominio tecnológico es poder tecnopolítico, trans-formador.*
 
-*El dominio de la técnica está formalizado en el diseño.*^(Este saber en particular plantea el problema de cómo aterrizar)
+*El dominio de la técnica está formalizado en el diseño.*[^17]
 
 *Robocop dice:* "Quiero el control del deseo para la libertad: los
 policías usaremos estas tecnologías para liberarles, pero con algunas
 omisiones en el proceso. "
 
 El mismo espíritu de esta nueva forma de procesar lo real ha dado orígen
-a la antítesis de la cibernética y es *devenir hacker*.^(http://bit.ly/2sHrsud) Esta
+a la antítesis de la cibernética y es *devenir hacker*.[^18] Esta
 actitud ha permitido desarrollar espacios de teorización sobre problemas
-por-venir.^(http://bit.ly/2sM6bQ6)
+por-venir.[^19]

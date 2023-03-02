@@ -28,7 +28,7 @@ cultura.
 
 Por esta razón abogamos por feminizar la hegemonía. Por eso somos La
 Partida. Nuestra radicalidad está manifiesta en nuestra vocación de
-máquina de guerra nomádica.^(http://bit.ly/2sESQcf) Estamos conscientes de que la
+máquina de guerra nomádica.[^5] Estamos conscientes de que la
 experiencia de las sombras juega un papel tan importante para la
 revolución como la apertura de las instituciones políticas y económicas.
 
@@ -50,7 +50,7 @@ empatía a otras.
 histórico que nos ha demostrado el poder de la piratería y de los
 movimientos open source, que cuestionan las formas de conocer a través
 de castigos y disciplina, desarmando los dispositivos de control del
-Imperio.^(http://bit.ly/2Ca0I9o)
+Imperio.[^6]
 
 Sabemos que otras resistencias de izquierda más radical no han podido
 mantener un impacto pero sí tecnologías de lucha avanzadas. No
