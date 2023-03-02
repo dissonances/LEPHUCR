@@ -11,30 +11,22 @@ File.readlines(bibliography_file).each do |line|
 end
 
 # Replace the footnote links in the input files
-input_files.each do |input_file|
-  # Read the input file and split it into lines
-  lines = File.readlines(input_file)
+# Iterate over the files to search and replace any references to footnotes
+input_files.each do |filename|
+  # Read in the file
+  content = File.read(filename)
 
-  # Find the index of the "# References" heading
-  references_index = lines.find_index { |line| line.match(/^# References/) }
-
-  if references_index
-    # Split the file into the part before and after the references section
-    pre_references = lines[0...references_index]
-    post_references = lines[references_index..-1]
-
-    # Replace any footnote links in the post-references section
-    post_references.map! do |line|
-      line.gsub(/\[\^([^\]]+)\]/) do
-        footnote_number = $1
-        footnote_content = footnote_links[footnote_number]
-
-        # Format the footnote content and wrap it in parentheses
-        "(#{footnote_content.sub(/^\[\d+\]\s+/, '')})"
-      end
+  # Replace any references to footnote_links
+  content.gsub!(/\[\^(?<number>\d+)\]/) do |match|
+    number = $~[:number]
+    #require 'pry-byebug'; binding.pry
+    if footnote_links.key?(number)
+      "^(#{footnote_links[number]})"
+    else
+      match
     end
-
-    # Write the updated file contents to disk
-    File.write(input_file, (pre_references + post_references).join(""))
   end
+
+  # Write out the updated file
+  File.write(filename, content)
 end
