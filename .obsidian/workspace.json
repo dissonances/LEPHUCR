@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3731e4307e505d4e",
+        "id": "7ee0a257a08bd90a",
         "type": "tabs",
         "children": [
           {
-            "id": "aa2301b73b7b4f72",
+            "id": "fcddc9a641ebbbac",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "LEPHUCR PDF BOOK.md"
-              }
-            }
-          },
-          {
-            "id": "8679f32dde0f7c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LEPHUCR PDF BOOK.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa2301b73b7b4f72",
+  "active": "fcddc9a641ebbbac",
   "lastOpenFiles": [
-    "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
     "LEPHUCR PDF BOOK.md",
+    "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
     "LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated..md",
     "LEPHUCR-001 Standar template for 3 books.md",
     "LEPHUCR-010 Enable donation links.md",
