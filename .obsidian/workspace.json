@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee0a257a08bd90a",
+        "id": "c3cf0a3289ca9a98",
         "type": "tabs",
         "children": [
           {
-            "id": "fcddc9a641ebbbac",
+            "id": "4139819c7d45fcb5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85b4567bba12024b",
@@ -131,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -139,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcddc9a641ebbbac",
+  "active": "4139819c7d45fcb5",
   "lastOpenFiles": [
+    "3-accion-critica/style.md",
+    "README.md",
     "LEPHUCR PDF BOOK.md",
     "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
     "LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated..md",
@@ -169,13 +171,11 @@
     "1-plantar-cara/01-manifesto.md",
     "LEPHUCR-007 Calculate the amount of total chapters.md",
     "LEPHUCR-002 Generate web article about the book to perform growth marketing.md",
-    "3-accion-critica/style.md",
     "2-lephucr/08a-bibliography.md",
     "2-lephucr/07-anexos.md",
     "2-lephucr/06-cap5.md",
     "2-lephucr/05-cap4.md",
     "2-lephucr/04-cap3.md",
-    "2-lephucr/03-cap2.md",
-    "2-lephucr/02-cap1.md"
+    "2-lephucr/03-cap2.md"
   ]
 }

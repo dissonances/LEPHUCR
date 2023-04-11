@@ -98,7 +98,7 @@ After you're finished please remove all the comments and instructions!
 
 > This book is publishable through Gollum and we aim to provide an User Interface to edit markdown texts.GitHub Action to auto-publish once a Pull Request is approved. 1-3 key features of the application.
 
-- **[Public GitHub Action]**
+- **[Public GitHub Action]** 
 - **[Front-end to edit the text, add images and bibliography]**
 - **[Bibliography]**
 
