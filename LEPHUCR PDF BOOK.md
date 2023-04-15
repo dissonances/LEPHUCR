@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] LEPHUCR-005 Get 5K USD from 1000 suscriptions
 - [ ] LEPHUCR-006 Record a video for each chapter
 - [ ] LEPHUCR-015 Sync up org/md/tex files simoultaneously
+- [ ] LEPHUCR-022 Move hlfix to a different way of handling todos
 
 ## Todo
 

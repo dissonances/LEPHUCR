@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3cf0a3289ca9a98",
+        "id": "cc7442271a87c6ff",
         "type": "tabs",
         "children": [
           {
-            "id": "4139819c7d45fcb5",
+            "id": "cc346b98189891fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "LEPHUCR PDF BOOK.md"
+              }
             }
           }
         ]
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "85b4567bba12024b",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LEPHUCR PDF BOOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LEPHUCR PDF BOOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LEPHUCR PDF BOOK.md"
+              }
             }
           }
         ]
@@ -139,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4139819c7d45fcb5",
+  "active": "fa57732a98db7b2f",
   "lastOpenFiles": [
+    "LEPHUCR PDF BOOK.md",
     "3-accion-critica/style.md",
     "README.md",
-    "LEPHUCR PDF BOOK.md",
     "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
     "LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated..md",
     "LEPHUCR-001 Standar template for 3 books.md",
