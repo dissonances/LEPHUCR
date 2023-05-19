@@ -7,27 +7,24 @@ visiones comunes.
 \#yosoy132 fue otra de las explosiones que muestran la fragilidad e
 ilegitimidad de un régimen del Estado criminal, que ha oprimido
 sistemáticamente a la gente que menos tiene y que asesina a cualquier
-inconforme. Wikipolítica es uno de los frutos de una generación que está
-cansada de repetir fórmulas dogmáticas y deseos priístas. Somos las que
-quieren atreverse a vivir, a soñar, a combatir.
+inconforme. Wikipolítica es uno de los frutos de una generación que
+está cansada de repetir fórmulas dogmáticas y deseos priístas. Somos
+las que quieren atreverse a vivir, a soñar, a combatir.
 
 La revolución que queremos es la que parte del deseo. Se trata de
-recuperar la capacidad de soñar, de imaginar en un mundo donde el
+recuperar la capacidad de soñar, de imaginar en un mundo en el que el
 Espectáculo dicta lo que queremos, lo que necesitamos y cómo debemos
 amarnos.
 
-Las breves intervenciones de este documento no buscan sino crear
+Las breves intervenciones de este documento no pretenden, sino crear,
 destruyendo, a la par de advertir algunos fantasmas que amenazan cómo
 apagar, una vez más, la llama por un cambio radical en la historia.
 
-Todavía nos faltan 43
-
-pero muchas más\...
+Todavía nos faltan 43 pero muchas más\ldots
 
 ## TODO: Agregar esto a contraportada
 
-*\
-*
+*\ *
 
 Por dentro, la alarma
 

@@ -14,8 +14,7 @@ Programa con:
 
 Tiqqun: <http://tiqqunim.blogspot.mx/>
 
-Altwoke:\
-http://tripleampersand.org/alt-woke-manifesto/
+Altwoke:\ http://tripleampersand.org/alt-woke-manifesto/
 
 <http://tripleampersand.org/altwoke-companion/>
 
