@@ -10,9 +10,10 @@ kanban-plugin: basic
 - [ ] LEPHUCR-006 Record a video for each chapter
 - [ ] LEPHUCR-015 Sync up org/md/tex files simoultaneously
 
+
 ## Todo
 
-- [ ] [[LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`]]
+- [ ] [[LEPHUCR-021 Replace markdown numbered reference with ` footnote{}` 1]]
 - [ ] LEPHUCR-009 Create portfolio
 - [ ] LEPHUCR-014 Script to generate pdf from template format in Latex
 - [ ] [[LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated.]]

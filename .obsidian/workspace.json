@@ -11,9 +11,11 @@
             "id": "aa2301b73b7b4f72",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md"
+                "file": "2-lephucr/06-cap5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "85b4567bba12024b",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md",
+                "file": "2-lephucr/06-cap5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md",
+                "file": "2-lephucr/06-cap5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LEPHUCR PDF BOOK.md"
+                "file": "2-lephucr/06-cap5.md"
               }
             }
           }
@@ -149,19 +150,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "aa2301b73b7b4f72",
   "lastOpenFiles": [
-    "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
+    "3-accion-critica/style.md",
+    "1-plantar-cara/06-lefts-right.md",
+    "1-plantar-cara/00-prologue.md",
+    "1-plantar-cara/03-institutional-struggle.md",
+    "1-plantar-cara/01-manifesto.md",
+    "1-plantar-cara/Plantar cara al pasado para imaginar el futuro BETA.pdf",
     "LEPHUCR PDF BOOK.md",
+    "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}`.md",
+    "LEPHUCR-007 Calculate the amount of total chapters.md",
     "LEPHUCR-013 Ruby script to move text back to Markdown but keep Latex section separated..md",
+    "LEPHUCR-021 Replace markdown numbered reference with ` footnote{}` 1.md",
     "LEPHUCR-001 Standar template for 3 books.md",
     "LEPHUCR-010 Enable donation links.md",
     "Untitled 1.md",
@@ -175,25 +184,16 @@
     "scriptbook.pdf",
     "scriptbook.out",
     "scriptbook.synctex(busy)",
-    "scriptbook.log",
     "1-plantar-cara/08-bibliography.md",
     "1-plantar-cara/07-some-warnings.md",
-    "1-plantar-cara/00-prologue.md",
-    "1-plantar-cara/06-lefts-right.md",
     "1-plantar-cara/05-know-to-do.md",
     "1-plantar-cara/04-our-intuitions.md",
-    "1-plantar-cara/03-institutional-struggle.md",
     "1-plantar-cara/02-about-the-party.md",
-    "1-plantar-cara/01-manifesto.md",
-    "LEPHUCR-007 Calculate the amount of total chapters.md",
     "LEPHUCR-002 Generate web article about the book to perform growth marketing.md",
-    "3-accion-critica/style.md",
     "2-lephucr/08a-bibliography.md",
     "2-lephucr/07-anexos.md",
     "2-lephucr/06-cap5.md",
     "2-lephucr/05-cap4.md",
-    "2-lephucr/04-cap3.md",
-    "2-lephucr/03-cap2.md",
-    "2-lephucr/02-cap1.md"
+    "2-lephucr/04-cap3.md"
   ]
 }
